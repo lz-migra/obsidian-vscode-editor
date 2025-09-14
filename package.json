@@ -1,7 +1,7 @@
 {
 	"name": "obsidian-vscode-editor",
-	"version": "1.0.4",
-	"description": "Edit Code Files like VSCode.",
+	"version": "1.0.5",
+	"description": "Edita archivos de codigo como en VSCode / Edit Code Files like VSCode.",
 	"main": "src/main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
